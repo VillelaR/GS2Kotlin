@@ -39,6 +39,19 @@ Aplicativo Android desenvolvido em Kotlin utilizando Jetpack Compose para navega
 - Exibe os nomes dos integrantes da equipe
 - Botão "Voltar" para retornar ao menu
 
+## Prints
+- Usuário incorreto
+<img width="368" height="572" alt="image" src="https://github.com/user-attachments/assets/ea86f0e0-ba69-4f47-b92c-dab8a9e2e871" />
+
+- Menu inicial
+<img width="355" height="567" alt="image" src="https://github.com/user-attachments/assets/8aaa2626-1c91-4054-80e4-88da60340096" />
+
+- Equipe
+<img width="367" height="572" alt="image" src="https://github.com/user-attachments/assets/d9ca13d1-b7b0-4eda-84ef-ddcaf347c1fc" />
+
+- Calculadora IMC funcionando
+<img width="242" height="512" alt="image" src="https://github.com/user-attachments/assets/9d49d2a3-67ea-4deb-bc86-717792589f96" />
+
 ## Tecnologias Utilizadas
 
 - **Kotlin** - Linguagem de programação
@@ -93,8 +106,4 @@ IMC = Peso (kg) / (Altura (m))²
 ## Observações
 
 Este projeto foi desenvolvido como parte da avaliação GS 2 da disciplina Android Kotlin Developer, seguindo as especificações fornecidas pelo professor.
-
----
-
-**Nota:** As screenshots das telas funcionais devem ser adicionadas aqui para comprovar o funcionamento da aplicação.
 
